@@ -1,2 +1,2 @@
-1.1
-https://github.com/tareq365/External_Auto_Update/releases/download/v1.1/Uid_Bypass_Ob51_All.Server.Safe.exe
+1.0
+https://github.com/tareq365/External_Auto_Update/releases/download/v1.0/External.0.9.1.3.exe
