@@ -1,2 +1,2 @@
-1.0
-https://github.com/tareq365/External_Auto_Update/releases/download/v1.0/External.0.9.1.3.exe
+1.1
+https://github.com/tareq365/External_Auto_Update/releases/download/V1.1/External.0.9.1.4.exe
