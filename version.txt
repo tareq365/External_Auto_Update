@@ -1,1 +1,2 @@
-
+1.0
+https://github.com/tareq365/MyAppUpdater/releases/download/v1.0/app.exe
