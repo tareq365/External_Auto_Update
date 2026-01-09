@@ -1,2 +1,2 @@
 1.9
-https://github.com/tareq365/External_Auto_Update/releases/download/V1.8/External.0.9.V1.8.zip
+https://github.com/tareq365/External_Auto_Update/releases/download/V1.9/External.09.V1.9.zip
