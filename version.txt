@@ -1,2 +1,2 @@
-1.9
+1.10
 https://github.com/tareq365/External_Auto_Update/releases/download/V1.9/External.09.V1.9.zip
