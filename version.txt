@@ -1,2 +1,2 @@
-1.10
-https://github.com/tareq365/External_Auto_Update/releases/download/V1.10/External_09_V1.10.zip
+1.4
+https://github.com/tareq365/External_Auto_Update/releases/download/V1.4/External_Streamer_V1.4.rar
